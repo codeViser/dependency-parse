@@ -1,6 +1,6 @@
-# Dependency Tree structure in sentences
+# Dependency Tree structures in sentences
 
-Breaking sentences into a tree-like structures that highlight parts of speech dependency
+Breaking sentences into tree-like structures that highlight parts of speech dependency
 
 
 Install virtualenv
